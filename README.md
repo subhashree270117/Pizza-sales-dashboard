@@ -26,8 +26,7 @@ CHART REQUIREMENT
 🛠️ Tools & Technologies:
 - Data Visualization: Power BI
 - Data Processing: Python, SQL
-- Database:MySQLETL Pipeline: Python for data extraction and transformation
-- Deployment: Power BI Service/Tableau Server
+- Database:MySQL
 
 📁 Data:
 The data used for this project includes order details, customer information, and product inventory sourced from a fictional pizza business.
