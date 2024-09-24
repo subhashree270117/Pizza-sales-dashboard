@@ -15,3 +15,11 @@ CHART REQUIREMENT
 - Total pizzas Sold by Pizza Category
 - Top 5 best sellers by revenue,Total quantity and Total orders
 - Bottom 5 best sellers by Revenue, Total Quantity and Total orders
+
+
+![image](https://github.com/user-attachments/assets/1e8698d4-bc08-4ad4-80ee-141a417f7271)
+
+
+![Screenshot 2024-09-24 210944](https://github.com/user-attachments/assets/aeb07cba-fa8e-4065-87b1-340b4afd49c4)
+
+
